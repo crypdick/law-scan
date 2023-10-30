@@ -1,0 +1,4 @@
+ratelimit
+pymongo
+requests
+python-dotenv
